@@ -1,0 +1,12 @@
+export const products = [
+  { id: 1, name: "Everyday Backpack", category: "Accessories", price: 2499, oldPrice: 2999, tag: "Bestseller", color: "#d7d0c3", image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80", description: "A versatile carry-all with considered details and room for daily essentials." },
+  { id: 2, name: "Studio Headphones", category: "Tech", price: 3999, oldPrice: null, tag: "New", color: "#d9dce0", image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80", description: "Comfort-first headphones for focus time, commutes, and everything in between." },
+  { id: 3, name: "Ceramic Pour-Over", category: "Home", price: 1299, oldPrice: null, tag: "", color: "#e6d8c8", image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80", description: "A simple, tactile coffee ritual made for slow mornings." },
+  { id: 4, name: "Minimal Watch", category: "Accessories", price: 3299, oldPrice: 3799, tag: "Popular", color: "#d6d2ca", image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80", description: "A clean everyday timepiece with a timeless silhouette." },
+  { id: 5, name: "Soft Knit Throw", category: "Home", price: 1899, oldPrice: null, tag: "", color: "#d9c9bc", image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=80", description: "A cozy layer that brings warmth and texture to your space." },
+  { id: 6, name: "Classic Sneakers", category: "Style", price: 2799, oldPrice: null, tag: "Bestseller", color: "#d9d9d7", image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80", description: "Everyday sneakers designed to pair effortlessly with your rotation." },
+  { id: 7, name: "Insulated Bottle", category: "Accessories", price: 899, oldPrice: 1099, tag: "", color: "#cfdad4", image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80", description: "A reusable companion for busy days and outdoor escapes." },
+  { id: 8, name: "Desk Lamp", category: "Home", price: 2199, oldPrice: null, tag: "New", color: "#e5d9c6", image: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80", description: "A warm, focused glow for your reading nook or workspace." }
+];
+
+export const categories = ["All", "Accessories", "Home", "Style", "Tech"];
